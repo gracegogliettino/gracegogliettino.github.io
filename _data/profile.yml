@@ -42,23 +42,23 @@ education:
 
 experience:
 - name: Dr.Geha & Dr.Gandhi - Yale University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/yale_logo.png
   position: Undergraduate Researcher
   date: Sep. 2019 - Jul. 2021
 - name: Dr.Gorjian - NASA Jet Propulsion Laboratory, & Prof.Granucci - Quinnipiac University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/nasa_logo.png
   position: Undergraduate Researcher
   date: Sep. 2019 - Jul. 2021
 - name: Dr.Shivashankara - Brown University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/brown_logo.png
   position: Undergraduate Researcher
   date: Sep. 2019 - Jul. 2021
 - name: Dr.Ghodla - Colgate University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/colgate_logo.png
   position: Research Asssistant
   date: Sep. 2019 - Jul. 2021
 - name: Dr.Tseng - Colgate University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/colgate_logo.png
   position: Research Asssistant
   date: Sep. 2019 - Jul. 2021
 
