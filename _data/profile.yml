@@ -44,17 +44,20 @@ community:
 - name: Teaching Assistant
   logo: /assets/images/badges/colgate_logo.png
   position: >-
-    <strong>Colgate University</strong> (Fundamental Physics I and Introductory Astronomy II)
+    <strong>Colgate Department of Physics and Astronomy</strong><br>
+    Fundamental Physics I and Introductory Astronomy II
   date: Sept. 2024 - Present
 - name: President
   logo: /assets/images/badges/sps_logo.png
   position: >-
-    <strong>Colgate Society of Physics Students</strong>, Treasurer (9/2024 - 5/2025)
+    <strong>Colgate Society of Physics Students</strong><br>
+    Treasurer (9/2024 - 5/2025)
   date: Sept. 2024 - Present
 - name: President
   logo: /assets/images/badges/stargate_logo.png
   position: >-
-    <strong>Colgate Astronomy Club (Star'Gate)</strong>, Secretary (3/2024 - 3/2025)
+    <strong>Colgate Astronomy Club (Star'Gate)</strong><br>
+    Secretary (3/2024 - 3/2025)
   date: March 2024 - Present
 - name: Planetarium Presenter
   logo: /assets/images/badges/vislab_logo.png
