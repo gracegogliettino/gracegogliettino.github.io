@@ -4,19 +4,14 @@
 "Shanmuka Shivashankara":
   url: https://journals.aps.org/search/results?sort=relevance&clauses=%5B%7B%22operator%22%3A%22AND%22%2C%22field%22%3A%22author%22%2C%22value%22%3A%22Shanmuka+Shivashankara%22%7D%5D
 
-"Charles Green (MIT)":
-  name: Charles Green
-  url: https://www.google.com/?q=Charles+Green+MIT
+"Mikayli Wojciak":
+  url: https://ui.adsabs.harvard.edu/search/q=author%3A%22Wojciak%2C%20Mikayli%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
 
-"Charles Green (Stanford)":
-  name: Charles Green
-  url: https://www.google.com/?q=Charles+Green+Stanford
+"Nicole Granucci":
+  url: https://www.qu.edu/faculty-and-staff/nicole-granucci/
 
-"Garrett Harris":
-  url: https://www.google.com/?q=Garrett+Harris
+"Varoujan Gorjian":
+  url: https://science.jpl.nasa.gov/people/gorjian/
 
-"James Wang":
-  url: https://www.google.com/?q=James+Wang
-
-"John Doe":
-  url: https://www.google.com/?q=John+Doe
+"Thomas Rutherford":
+  url: https://ui.adsabs.harvard.edu/search/q=author%3A%22Rutherford%2C%20Thomas%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
