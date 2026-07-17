@@ -120,3 +120,25 @@ div.lazy {
     color: white !important;
     background-color: #AAA1C8 !important;
 }
+
+.btn-outline-primary {
+    color: #AAA1C8 !important;
+    border-color: #AAA1C8 !important;
+}
+
+/* hover state */
+.btn-outline-primary:hover {
+    color: #AAA1C8 !important;
+    background-color: #F1ECFF !important;
+    border-color: #AAA1C8 !important;
+}
+
+/* selected state */
+.btn-outline-primary:active,
+.btn-outline-primary.active,
+.btn-outline-primary:focus {
+    color: white !important;
+    background-color: #AAA1C8 !important;
+    border-color: #AAA1C8 !important;
+    box-shadow: none !important;
+}
