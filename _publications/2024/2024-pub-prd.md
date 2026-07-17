@@ -17,7 +17,7 @@ abstract: >-
   correlations encode equivalent physical information, while the scattering
   cross section acts as a source of helicity and momentum entropy, linking
   quantum information measures directly to observable scattering dynamics.
-cover: /assets/images/covers/medium.png
+cover: /assets/images/covers/prd_fog.png
 authors:
   - Shanmuka Shivashankara
   - Grace Gogliettino
