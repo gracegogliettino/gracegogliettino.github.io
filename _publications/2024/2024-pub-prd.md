@@ -5,7 +5,7 @@ selected: true
 pub: "Physical Review D"
 # pub_pre: "Submitted to "
 # pub_post: "Under review."
-pub_last: ' <span class="badge badge-pill badge-publication badge-success">Publication</span>'
+pub_last: '<span class="badge badge-pill badge-publication-custom">Publication</span>'
 pub_date: "2024"
 semantic_scholar_id: d8e11645d7dcae3e32100ab27ab92229d6ee3f3c
 abstract: >-
