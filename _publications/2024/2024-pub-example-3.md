@@ -23,4 +23,5 @@ authors:
   - Grace Gogliettino
 links:
   APS: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.096004
+  PDF: https://journals.aps.org/prd/pdf/10.1103/PhysRevD.110.096004
 ---
