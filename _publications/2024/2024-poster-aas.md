@@ -5,7 +5,7 @@ selected: true
 pub: "American Astronomical Society"
 # pub_pre: "Submitted to "
 # pub_post: "Under review."
-pub_last: ' <span class="badge badge-pill badge-publication badge-success">Poster</span>'
+pub_last: ' <span class="badge badge-pill badge-poster-custom">Poster</span>'
 pub_date: "2024"
 abstract: >-
   Quasars’ (QSO) immense luminosity makes them potential candidates for measuring
