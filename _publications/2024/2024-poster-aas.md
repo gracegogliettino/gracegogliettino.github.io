@@ -1,8 +1,8 @@
 ---
-title: "Regularized entanglement entropy of electron-positron scattering with a witness photon"
-date: 2024-04-11 00:01:00 +0800
+title: "Exploring Color-Magnitude Relationships Among Quasars with z between 1.5-1.75"
+date: 2024-01-12 00:01:00 +0800
 selected: true
-pub: "Physical Review D"
+pub: "American Astronomical Society"
 # pub_pre: "Submitted to "
 # pub_post: "Under review."
 pub_last: ' <span class="badge badge-pill badge-publication badge-success">Poster</span>'
@@ -15,7 +15,7 @@ abstract: >-
   to search for correlations in their color magnitude diagrams (CMD). 
   This study explored the CMD derived from the continuum of QSOs as well as the
   influence of emission line strengths on the CMDs.
-cover: /assets/images/covers/prd_fig.png
+cover: /assets/images/covers/aas_fig_2024.png
 authors:
   - Mikayli Wojciak
   - Nicole Granucci
