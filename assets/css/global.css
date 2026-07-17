@@ -121,23 +121,18 @@ div.lazy {
     background-color: #AAA1C8 !important;
 }
 
+
+/* default button style */
 .btn-outline-primary {
     color: #AAA1C8 !important;
     border-color: #AAA1C8 !important;
 }
 
-/* hover state */
-.btn-outline-primary:hover {
-    color: #AAA1C8 !important;
-    background-color: #F1ECFF !important;
-    border-color: #AAA1C8 !important;
-}
-
-/* selected state */
+/* hover and click state */
+.btn-outline-primary:hover,
 .btn-outline-primary:active,
-.btn-outline-primary.active,
 .btn-outline-primary:focus {
-    color: white !important;
+    color: #ffffff !important;
     background-color: #AAA1C8 !important;
     border-color: #AAA1C8 !important;
     box-shadow: none !important;
