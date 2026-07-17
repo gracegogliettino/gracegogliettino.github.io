@@ -3,15 +3,9 @@
 
 "Shanmuka Shivashankara":
   url: https://journals.aps.org/search/results?sort=relevance&clauses=%5B%7B%22operator%22%3A%22AND%22%2C%22field%22%3A%22author%22%2C%22value%22%3A%22Shanmuka+Shivashankara%22%7D%5D
-
-"Mikayli Wojciak":
-  url: https://ui.adsabs.harvard.edu/search/q=author%3A%22Wojciak%2C%20Mikayli%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
-
+  
 "Nicole Granucci":
   url: https://www.qu.edu/faculty-and-staff/nicole-granucci/
 
 "Varoujan Gorjian":
   url: https://science.jpl.nasa.gov/people/gorjian/
-
-"Thomas Rutherford":
-  url: https://ui.adsabs.harvard.edu/search/q=author%3A%22Rutherford%2C%20Thomas%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
