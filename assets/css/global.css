@@ -103,3 +103,20 @@ div.lazy {
     background-color: #AAA1C8 !important;
     color: #ffffff !important;
 }
+
+/* default year text */
+#navbar-year .nav-link {
+    color: #800080 !important; /* purple */
+}
+
+/* hover state */
+#navbar-year .nav-link:hover {
+    color: #800080 !important;
+    background-color: #f3e6f3 !important; /* light purple */
+}
+
+/* selected year */
+#navbar-year .nav-link.active {
+    color: white !important;
+    background-color: #800080 !important; /* purple */
+}
