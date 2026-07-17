@@ -43,19 +43,23 @@ education:
 community:
 - name: Teaching Assistant
   logo: /assets/images/badges/colgate_logo.png
-  position: Colgate University (Fundamental Physics I and Introductory Astronomy II)
+  position: >-
+    <strong>Colgate University</strong> (Fundamental Physics I and Introductory Astronomy II)
   date: Sept. 2024 - Present
 - name: President
   logo: /assets/images/badges/sps_logo.png
-  position: Colgate University Society of Physics Students, Treasurer (9/2024 - 5/2025)
+  position: >-
+    <strong>Colgate Society of Physics Students</strong>, Treasurer (9/2024 - 5/2025)
   date: Sept. 2024 - Present
 - name: President
   logo: /assets/images/badges/stargate_logo.png
-  position: Colgate University Astronomy Club (Star'Gate), Secretary (3/2024 - 3/2025)
+  position: >-
+    <strong>Colgate Astronomy Club (Star'Gate)</strong>, Secretary (3/2024 - 3/2025)
   date: March 2024 - Present
 - name: Planetarium Presenter
   logo: /assets/images/badges/vislab_logo.png
-  position: Ho Tung Visualization Lab
+  position: >-
+    <strong>Ho Tung Visualization Lab</strong>
   date: Sept. 2023 - Present
 
 experience:
