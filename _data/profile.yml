@@ -40,9 +40,17 @@ education:
   position: B.A. in Astrophysics (Minor in Computer Science), Dean's Award with Distinction
   date: Aug. 2023 - May 2027
 community:
-- name: Colgate University
-  logo: /assets/images/badges/colgate_logo.png
-  position: B.A. in Astrophysics (Minor in Computer Science), Dean's Award with Distinction
+- name: Society of Physics Students (Colgate University Chapter)
+  logo: /assets/images/badges/sps_logo.png
+  position: President
+  date: Aug. 2023 - May 2027
+- name: Astronomy & Astrophotography Club (Star'Gate)
+  logo: /assets/images/badges/stargate_logo.png
+  position: President
+  date: Aug. 2023 - May 2027
+- name: Ho Tung Visualization Lab
+  logo: /assets/images/badges/vislab_logo.png
+  position: Planetarium Presenter
   date: Aug. 2023 - May 2027
 
 experience:
