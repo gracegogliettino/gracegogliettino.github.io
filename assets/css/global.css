@@ -139,11 +139,10 @@ div.lazy {
 }
 
 .email-text {
-    color: #AAA1C8 !important;
+    color: #746797 !important;
 }
 .email-text:hover {
     color: #AAA1C8 !important;
-    background-color: #F1ECFF !important;
 }
 
 /* profile card links/icons */
@@ -154,7 +153,6 @@ div.lazy {
 /* hover state */
 .profile-card a:hover {
     color: #AAA1C8 !important;
-    background-color: #F1ECFF !important;
 }
 
 /* social icons */
