@@ -69,23 +69,33 @@ community:
 experience:
 - name: Yale University
   logo: /assets/images/badges/yale_logo.png
-  position: Undergraduate Researcher<br>Advisors: Dr. Gandhi, Dr. Geha
+  position: >-
+  Undergraduate Researcher<br>
+  Advisors: Dr. Gandhi, Dr. Geha
   date: Sep. 2019 - Jul. 2021
 - name: [Collaboration] NASA Jet Propulsion Laboratory, Quinnipiac University
   logo: /assets/images/badges/nasa_logo.png
-  position: Undergraduate Researcher<br>Advisors: Dr. Gorjian, Prof. Granucci
+  position: >-
+  Undergraduate Researcher<br>
+  Advisors: Dr. Gorjian, Prof. Granucci  
   date: Sep. 2019 - Jul. 2021
 - name: Colgate University
   logo: /assets/images/badges/brown_logo.png
-  position: Undergraduate Researcher<br>Advisor: Dr. Shivashankara (Brown University)
+  position: >-
+  Undergraduate Researcher<br>
+  Advisor: Dr. Shivashankara (Brown University)  
   date: Sep. 2019 - Jul. 2021
 - name: Colgate University
   logo: /assets/images/badges/colgate_logo.png
-  position: Research Asssistant<br>Advisor: Dr.Ghodla
+  position: >-
+  Research Assistant<br>
+  Advisor: Dr. Ghodla
   date: Sep. 2019 - Jul. 2021
 - name: Dr.Tseng - Colgate University
   logo: /assets/images/badges/colgate_logo.png
-  position: Research Asssistant<br>Advisor: Dr.Tseng
+  position: >-
+  Research Assistant<br>
+  Advisor: Dr. Tseng  
   date: Sep. 2019 - Jul. 2021
 
 # awards:
