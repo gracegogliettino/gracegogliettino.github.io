@@ -39,7 +39,12 @@ education:
   logo: /assets/images/badges/colgate_logo.png
   position: B.A. in Astrophysics (Minor in Computer Science), Dean's Award with Distinction
   date: Aug. 2023 - May 2027
+
 community:
+- name: Colgate University Department of Physics and Astronomy
+  logo: /assets/images/badges/colgate_logo.png
+  position: Teaching Assistant (Fundamental Physics I and Introductory Astronomy II)
+  date: Sept. 2024 - Present
 - name: Colgate University Society of Physics Students
   logo: /assets/images/badges/sps_logo.png
   position: President (May 2025 – Present), Treasurer (Sept. 2024 - May 2025)
