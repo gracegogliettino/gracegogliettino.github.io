@@ -137,3 +137,34 @@ div.lazy {
     border-color: #AAA1C8 !important;
     box-shadow: none !important;
 }
+
+.email-text {
+    color: #AAA1C8 !important;
+}
+.email-text:hover {
+    color: #AAA1C8 !important;
+    background-color: #F1ECFF !important;
+}
+
+/* profile card links/icons */
+.profile-card a {
+    color: #AAA1C8 !important;
+}
+
+/* hover state */
+.profile-card a:hover {
+    color: #AAA1C8 !important;
+    background-color: #F1ECFF !important;
+}
+
+/* social icons */
+.profile-card .social-icons i,
+.profile-card .social-icons svg {
+    color: #AAA1C8 !important;
+}
+
+/* social icon hover */
+.profile-card .social-icons a:hover i,
+.profile-card .social-icons a:hover svg {
+    color: #AAA1C8 !important;
+}
