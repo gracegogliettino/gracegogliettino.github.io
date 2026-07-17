@@ -1,6 +1,6 @@
 ---
 title: "Looking for a More Accurate Luminosity Indicator for Quasars"
-date: 20254-01-12 00:01:00 +0800
+date: 2025-01-12 00:01:00 +0800
 selected: true
 pub: "American Astronomical Society"
 # pub_pre: "Submitted to "
