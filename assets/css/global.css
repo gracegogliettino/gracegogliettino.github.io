@@ -144,3 +144,10 @@ div.lazy {
 .email-text:hover {
     color: #AAA1C8 !important;
 }
+
+.social-icons a {
+    color: #AAA1C8;   /* Your desired color */
+}
+.social-icons a:hover {
+    color: #F1ECFF;   /* Hover color */
+}
