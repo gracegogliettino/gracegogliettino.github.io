@@ -145,10 +145,12 @@ div.lazy {
     color: #AAA1C8 !important;
 }
 
-.profile i {
+i.fab,
+i.ai {
     color: #AAA1C8 !important;
 }
 
-.profile a:hover i {
+a:hover i.fab,
+a:hover i.ai {
     color: #F1ECFF !important;
 }
