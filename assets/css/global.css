@@ -145,9 +145,10 @@ div.lazy {
     color: #AAA1C8 !important;
 }
 
-.social-icons a {
-    color: #AAA1C8;   /* Your desired color */
+.profile i {
+    color: #AAA1C8 !important;
 }
-.social-icons a:hover {
-    color: #F1ECFF;   /* Hover color */
+
+.profile a:hover i {
+    color: #F1ECFF !important;
 }
