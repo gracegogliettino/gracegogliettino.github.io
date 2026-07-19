@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title : Showcase
 navbar_title: Showcase
@@ -29,4 +29,27 @@ container_class: container-xl
     </div>
     {% endfor %}
 </div>
+{% endfor %} -->
+
+
+---
+layout: default
+title: Showcase
+navbar_title: Showcase
+container_class: container-xl
+---
+
+{% assign cards_by_group = site.showcase | sort: "date" | reverse | where: "show", true | group_by_exp: "item", "item.group" %}
+
+{% for group in cards_by_group %}
+<h1 class="mb-4">{{ group.name }}</h1>
+
+<div class="gallery">
+    {% for item in group.items %}
+    <div class="gallery-item">
+        {{ item.content }}
+    </div>
+    {% endfor %}
+</div>
+
 {% endfor %}
