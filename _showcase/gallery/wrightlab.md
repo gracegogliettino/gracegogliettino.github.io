@@ -9,7 +9,7 @@ group: Gallery
   class="lazy w-100 rounded-xl-top" src="{{ '/assets/images/photos/wrightlab.jpeg' | relative_url }}">
   <div class="card-body">
     <p class="card-text">
-       wrightlab.
+       Throughout the summer of 2025, I participated in the Yale University Summer Student Research Program at Wright Lab, co-sponsored by the           Yale Physics Department, Yale Astronomy Department, and Yale Quantum Institute, where I gained experience in research practices,                   scientific communication, and professional development.
     </p>
   </div>
 </div>
