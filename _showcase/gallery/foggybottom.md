@@ -9,7 +9,7 @@ group: Gallery
  class="lazy w-100 rounded-xl-top" src="{{ '/assets/images/photos/foggybottom.jpeg' | relative_url }}">
   <div class="card-body">
     <p class="card-text">
-      foggybottom.
+      A night of observing at Colgate University’s Foggy Bottom Observatory. Pictured is NGC 891, a       stunning edge-on spiral galaxy!
     </p>
   </div>
 </div>
