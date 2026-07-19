@@ -9,7 +9,7 @@ group: Gallery
   class="lazy w-100 rounded-xl-top" src="{{ '/assets/images/photos/yale_pres.jpeg' | relative_url }}">
   <div class="card-body">
     <p class="card-text">
-       Yale Presentation
+      Concluding my first summer of research at Yale by presenting “Quenching and HI Content in Low-Mass Galaxies of FIRE-2” at the Yale               University Summer Research Symposium in July 2025. This project explored the connection between galaxy evolution, quenching processes, and         neutral hydrogen content in low-mass galaxies.
     </p>
   </div>
 </div>
