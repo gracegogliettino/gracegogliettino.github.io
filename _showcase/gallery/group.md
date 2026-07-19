@@ -9,7 +9,7 @@ group: Gallery
   class="lazy w-100 rounded-xl-top" src="{{ '/assets/images/photos/group.jpg' | relative_url }}">
   <div class="card-body">
     <p class="card-text">
-       group.
+       Members of my research group, V.Gorjian (NASA JPL), N.Granucci (Quinnipiac University), C.Jones (ETSU), and T.Rutherford (King                   University), attending AAS 2026 in Phoenix, Arizona.
     </p>
   </div>
 </div>
