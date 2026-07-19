@@ -9,7 +9,7 @@ group: Gallery
   class="lazy w-100 rounded-xl-top" src="{{ '/assets/images/photos/vassar2.jpeg' | relative_url }}">
   <div class="card-body">
     <p class="card-text">
-      Vassar 2.
+      In October 2025, fellow leaders of the Colgate Astronomy Club (Star’Gate) and I visited Vassar College for the Keck Northeast Astronomy           Symposium, connecting with members of the undergraduate astronomy community.
     </p>
   </div>
 </div>
