@@ -154,3 +154,71 @@ a:hover i.fab,
 a:hover i.ai {
     color: #F1ECFF !important;
 }
+
+/* Masonry Gallery */
+
+.gallery {
+    column-width: 320px;
+    column-gap: 20px;
+}
+
+.gallery-item {
+    position: relative;
+    break-inside: avoid;
+    margin-bottom: 20px;
+    overflow: hidden;
+    border-radius: 12px;
+}
+
+.gallery-item img {
+    width: 100%;
+    display: block;
+
+    opacity: 0.75;
+    transition:
+        opacity .3s ease,
+        transform .3s ease;
+}
+
+.gallery-item:hover img {
+    opacity: 1;
+    transform: scale(1.03);
+}
+
+/* Caption Overlay */
+
+.gallery-caption {
+    position: absolute;
+    inset: 0;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding: 20px;
+
+    text-align: center;
+
+    background: rgba(0,0,0,.55);
+
+    color: white;
+
+    opacity: 0;
+
+    transition: opacity .3s ease;
+}
+
+.gallery-item:hover .gallery-caption {
+    opacity: 1;
+}
+
+.gallery-caption h5,
+.gallery-caption p {
+    color: white;
+    margin: 0;
+}
+
+.gallery-caption h5 {
+    margin-bottom: .5rem;
+}
