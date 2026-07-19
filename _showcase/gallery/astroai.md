@@ -9,7 +9,7 @@ group: Gallery
  class="lazy w-100 rounded-xl-top" src="{{ '/assets/images/photos/astroai.jpeg' | relative_url }}">
   <div class="card-body">
     <p class="card-text">
-      astroai.
+      In July 2025, supported by a summer research grant from Colgate University, I attended the AstroAI Workshop at the Harvard Center for             Astrophysics, where I explored the role of AI in advancing astronomy.
     </p>
   </div>
 </div>
