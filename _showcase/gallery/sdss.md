@@ -9,7 +9,7 @@ group: Gallery
  class="lazy w-100 rounded-xl-top" src="{{ '/assets/images/photos/sdss.jpeg' | relative_url }}">
   <div class="card-body">
     <p class="card-text">
-      SDSS.
+      As part of my Astronomical Observational Techniques course, I visited the SDSS 2.5 m telescope at Apache Point Observatory, exploring the         telescope behind the Sloan Digital Sky Survey!
     </p>
   </div>
 </div>
