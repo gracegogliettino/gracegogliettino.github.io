@@ -9,7 +9,7 @@ group: Gallery
   class="lazy w-100 rounded-xl-top" src="{{ '/assets/images/photos/phoenix.jpeg' | relative_url }}">
   <div class="card-body">
     <p class="card-text">
-       Phoenix
+       I had the opportunity to volunteer at and present my research on the Color–Magnitude Relations of Quasars in COSMOS at the 2026 American          Astronomical Society Meeting in Phoenix, Arizona.
     </p>
   </div>
 </div>
